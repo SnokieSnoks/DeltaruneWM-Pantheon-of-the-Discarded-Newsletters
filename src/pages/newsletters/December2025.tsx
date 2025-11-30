@@ -35,7 +35,7 @@ const Summer2025 = () => {
   return (
     <section className="flex justify-center">
       <div className="flex flex-col w-full max-w-[568px] items-center mt-10 px-8 md:px-0">
-        <img src="/assets/potd-logo.gif"></img>
+        <img src="/assets/potd-logo.gif" alt='DeltaruneWM Pantheon of the Discarded'></img>
         <h1 className="text-deltarune-yellow font-pixel-bold md:text-3xl sm:text-xl text-center">
           DECEMBER 2025 NEWSLETTER
         </h1>
@@ -43,13 +43,22 @@ const Summer2025 = () => {
           <p className='mt-10'>Heeeeey everyone!</p>
           <p>Do you still remember us?</p>
           <p>Maybe this took a bit longer than expected…</p>
-          <p>To be honest, I had an almost complete issue written and ready for release in the summer. But I wanted to make it a little more fun by adding something special.</p>
-          <p>That was the recipe for disaster.</p>
-          <p>While I waited for this thing to be ready, more and more setbacks arose. And now here I am having to write an almost completely new issue because all my weather jokes just don't work anymore.</p>
-          <p>I promise I'll make it up to you by adding a few more juicy things to this issue.</p>
+          <p>
+            To be honest, I had an almost complete issue written and ready for release by summer. 
+            But I wanted to make it a little more fun by adding something special.
+          </p>
+          <p>That was a recipe for disaster.</p>
+          <p>
+            While I waited for this thing to be ready, more and more setbacks arose, 
+            and now here I am, writing an almost completely new issue.
+          </p>
+          <p>
+            I guess filling up this newsletter with paragraphs about how bad the weather was here isn't appropriate anymore.
+          </p>
         </div>
         <img
           src="/assets/december2025/RoulxsPeek.png"
+          alt='Upon hearing about bad weather, Rouxls peeks from behind a wall.'
           className="max-h-[100px]"
         ></img>
         <p className="self-start">Get out.</p>
@@ -60,7 +69,7 @@ const Summer2025 = () => {
           </p>
           <p>That's because this time, the writer is me, Snokie!</p>
           <p>
-            I'm one of the Directors of the game and the one behind the little
+            I'm one of the Directors of the game, and the one behind the little
             drawings in this issue.
           </p>
           <p>
@@ -120,6 +129,7 @@ const Summer2025 = () => {
           </h2>
           <img
             src="/assets/december2025/CatMike&CatMike.png"
+            alt="Cat Mike dances with DeltaruneWM's original Cat Mike"
             className="max-h-[150px]"
           ></img>
           <div>
@@ -147,6 +157,7 @@ const Summer2025 = () => {
           </div>
           <img
             src="/assets/december2025/CatMike&CatTenna.png"
+            alt="DeltaruneWM's Tenna and Mike dances like Cat Mike"
             className="max-h-[200px]"
           ></img>
         </div>
@@ -177,6 +188,7 @@ const Summer2025 = () => {
             There IS some stuff we're rewriting, but most of it is only to
             improve what we already had.
           </p>
+          <p>...</p>
           <p>See? The truth is nauseating.</p>
         </div>
         <h2 className="font-pixel-bold text-deltarune-yellow md:text-3xl sm:text-xl text-center mb-10 mt-20">
@@ -185,7 +197,7 @@ const Summer2025 = () => {
         <div>
           <p>
             The first wave is still not even close to being finished, but we are
-            getting closer to it every day that passes.
+            getting closer to it every passing day.
           </p>
           <p>
             We've been waiting for DELTARUNE for 6 and a half years now. It can
@@ -194,7 +206,7 @@ const Summer2025 = () => {
           <p>It is still waiting.</p>
           <p>But for how much longer now…?</p>
           <p>Your Pantheon…</p>
-          <p>Anyway, we don't want to leave you in the darker for too long, so we
+          <p>Anyway, we don't want to leave you in the dark-er for too long, so we
             decided to share, over the next few days, some of what we have
             worked on.</p>
           <p className="!mt-60">
@@ -236,6 +248,7 @@ const Summer2025 = () => {
           </p>
           <img
           src="/assets/december2025/RekkoRubyx&Rapjay.png"
+          alt='Rekko, a cat dressed in a Visual Kei style, Rubyx, a glamorous TV personality wearing pink and sparkly accessories, and Rapjay, a big DJ with a chill attitude standing next to each other'
           className="max-h-[175px] mx-auto"
           ></img>
           <p>
@@ -247,7 +260,7 @@ const Summer2025 = () => {
             first wave. And that's all I'm going to say.
           </p>
           <p>
-            Another cat? Their greed sickens me.
+            Also, another cat? Their greed sickens me.
           </p>
         </div>
         <h2 className="font-pixel-bold text-deltarune-yellow md:text-3xl sm:text-xl text-center mb-10 mt-20">
@@ -275,10 +288,11 @@ const Summer2025 = () => {
           <p>Guess I'll have to live on… as a boring box being.</p>
           <img
           src="/assets/december2025/CubeRobot.png"
+          alt='A cube-headed creature attempting to create a robot in its own image'
           className="max-h-[120px] mx-auto mt-20"
           ></img>
           <p className="!mt-20">
-            We've had some discussions and meetings and made a lot of progress 
+            We've had some discussions and meetings, and made a lot of progress 
             since then. We've decided that our focus will now be on creating a 
             fully realized and entirely playable slice from point A to point B 
             so that the team can experience what you guys will one day be able 
@@ -306,7 +320,7 @@ const Summer2025 = () => {
           </p>
           <p>
             Anyway, there are a few things I want to do with this free time, like 
-            studying a bit about music-making and some other creative subjects. 
+            studying music-making and some other creative subjects a bit. 
             I've always been fascinated by that sort of thing.
           </p>
           <p>
@@ -315,6 +329,7 @@ const Summer2025 = () => {
           </p>
           <img
           src="/assets/december2025/ILoveCoding.gif"
+          alt='A swarm of fish-eyes swoops towards the soul and begins to spin fiercely while shooting lightning bolts in its direction'
           className="max-h-[300px] mx-auto my-20"
           ></img>
           <p>
@@ -325,6 +340,7 @@ const Summer2025 = () => {
           </p>
           <img
           src="/assets/december2025/Phone.png"
+          alt='A phone rings.'
           className="max-h-[200px] mx-auto mb-20"
           ></img>
           <p>
@@ -332,6 +348,7 @@ const Summer2025 = () => {
           </p>
           <img
           src="/assets/december2025/CubeTalkingPhone.png"
+          alt='The cube-headed person picks up the call'
           className="max-h-[200px] mx-auto"
           ></img>
           <p>
@@ -363,43 +380,44 @@ const Summer2025 = () => {
           </p>
           <img
           src="/assets/december2025/CaramelCalling.png"
+          alt='The cube-headed being hands you the phone to speak with a small, orange, draconic creature.'
           className="max-h-[200px] mx-auto"
           ></img>
 
-          <p>
+          <p className='font-mono'>
             Hello! This is Caramel writing.
           </p>
-          <p>
+          <p className='font-mono'>
             Some developments have been made, and in short, we're changing our 
             approach for guest characters.
           </p>
-          <p>
+          <p className='font-mono'>
             We'll reach out to people ourselves, and no longer consider new 
             pitches sent to us.
           </p>
-          <p>
+          <p className='font-mono'>
             This decision is so that we can ensure a better quality consistency 
             across the roster and have a little more control over the scope of 
             the project (now that we actually have more pitches than what we 
             can develop into full segments).
           </p>
-          <p>
+          <p className='font-mono'>
             To that effect, we're also re-organizing and re-evaluating our current 
             characters. This means we'll remove some characters, give space for 
             other ones, and carefully consider every character that has been sent 
             to us (pitches, confirmed guests, even our own original characters). 
             Our end goal is a varied roster that favors uniqueness and creativity.
           </p>
-          <p>
+          <p className='font-mono'>
             (This does mean we'll inevitably reduce our total quantity of flowers 
             and cowboys... I apologize for the flower and cowboy fans.)
           </p> 
-          <p>
+          <p className='font-mono'>
             Honestly, I'd love to develop every single idea sent to us. But, it's 
             the nature of a big passion project like PotD to take careful control 
             of its scope before it gets too big to reasonably create.
           </p>
-          <p>
+          <p className='font-mono'>
             ... Okay, that's all I wanted to write about.
           </p>
           <p className='mt-40'>
@@ -410,6 +428,7 @@ const Summer2025 = () => {
           </p>
           <img
           src="/assets/december2025/CubeConfuse.png"
+          alt='The cube-headed creature stands in confusion in front of the telephone'
           className="max-h-[135px] mx-auto"
           ></img>
         </div>
@@ -434,6 +453,7 @@ const Summer2025 = () => {
         </div>
         <img
           src="/assets/december2025/TennaSunbathingPeacefully.png"
+          alt='Tenna from DeltaruneWM is peacefully sunbathing and drinking a soda while Mike tries to dig himself out. Tenna may or may not have been responsible for this'
           className="!mt-30 !mb-20 max-h-[200px]"
         ></img>
       </div>
