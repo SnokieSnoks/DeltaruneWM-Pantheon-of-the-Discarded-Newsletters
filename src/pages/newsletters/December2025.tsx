@@ -35,7 +35,7 @@ const Summer2025 = () => {
   return (
     <section className="flex justify-center">
       <div className="flex flex-col w-full max-w-[568px] items-center mt-10 px-8 md:px-0">
-        <img src="/src/assets/potd-logo.gif"></img>
+        <img src="/assets/potd-logo.gif"></img>
         <h1 className="text-deltarune-yellow font-pixel-bold md:text-3xl sm:text-xl text-center">
           DECEMBER 2025 NEWSLETTER
         </h1>
@@ -49,7 +49,7 @@ const Summer2025 = () => {
           <p>I promise I'll make it up to you by adding a few more juicy things to this issue.</p>
         </div>
         <img
-          src="/src/assets/december2025/RoulxsPeek.png"
+          src="/assets/december2025/RoulxsPeek.png"
           className="max-h-[100px]"
         ></img>
         <p className="self-start">Get out.</p>
@@ -119,7 +119,7 @@ const Summer2025 = () => {
             PLUEY
           </h2>
           <img
-            src="/src/assets/december2025/CatMike&CatMike.png"
+            src="/assets/december2025/CatMike&CatMike.png"
             className="max-h-[150px]"
           ></img>
           <div>
@@ -146,7 +146,7 @@ const Summer2025 = () => {
             </p>
           </div>
           <img
-            src="/src/assets/december2025/CatMike&CatTenna.png"
+            src="/assets/december2025/CatMike&CatTenna.png"
             className="max-h-[200px]"
           ></img>
         </div>
@@ -204,28 +204,28 @@ const Summer2025 = () => {
         </div>
         <AudioItem
           name="♪ There's No Town Like Con Town!!"
-          src="/src/assets/december2025/audio/con_town.wav"
+          src="/assets/december2025/audio/con_town.wav"
           piano={true}
           />
         <p>"The most perfect town of the most perfect world ever!"</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Eribetra</span></p>
         <AudioItem
           name="♪ Sorry, We're Open"
-          src="/src/assets/december2025/audio/sorry_were_open.wav"
+          src="/assets/december2025/audio/sorry_were_open.wav"
           piano={true}
           />
         <p>"It's a picture of a business man next to his red car."</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Creepabotinc</span></p>
                 <AudioItem
           name="♪ RING AROUND TOWN"
-          src="/src/assets/december2025/audio/ring_around_town.wav"
+          src="/assets/december2025/audio/ring_around_town.wav"
           piano={true}
           />
         <p>"WHY are you here!?? What the hell is THAT!??"</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Conno02</span></p>
         <AudioItem
           name="♪ Brutal Blade"
-          src="/src/assets/december2025/audio/brutal_blade.wav"
+          src="/assets/december2025/audio/brutal_blade.wav"
           piano={true}
           />
         <p>"Here, your foes will not be so easily persuaded."</p>
@@ -235,7 +235,7 @@ const Summer2025 = () => {
             Now for some characters.
           </p>
           <img
-          src="/src/assets/december2025/RekkoRubyx&Rapjay.png"
+          src="/assets/december2025/RekkoRubyx&Rapjay.png"
           className="max-h-[175px] mx-auto"
           ></img>
           <p>
@@ -274,7 +274,7 @@ const Summer2025 = () => {
           </p>
           <p>Guess I'll have to live on… as a boring box being.</p>
           <img
-          src="/src/assets/december2025/CubeRobot.png"
+          src="/assets/december2025/CubeRobot.png"
           className="max-h-[120px] mx-auto mt-20"
           ></img>
           <p className="!mt-20">
@@ -314,7 +314,7 @@ const Summer2025 = () => {
             I can help in that department! Look at one of the things I've already managed to do:
           </p>
           <img
-          src="/src/assets/december2025/ILoveCoding.gif"
+          src="/assets/december2025/ILoveCoding.gif"
           className="max-h-[300px] mx-auto my-20"
           ></img>
           <p>
@@ -324,14 +324,14 @@ const Summer2025 = () => {
             (ring ring ring)
           </p>
           <img
-          src="/src/assets/december2025/Phone.png"
+          src="/assets/december2025/Phone.png"
           className="max-h-[200px] mx-auto mb-20"
           ></img>
           <p>
             Hang on, someone's calling me.
           </p>
           <img
-          src="/src/assets/december2025/CubeTalkingPhone.png"
+          src="/assets/december2025/CubeTalkingPhone.png"
           className="max-h-[200px] mx-auto"
           ></img>
           <p>
@@ -362,7 +362,7 @@ const Summer2025 = () => {
             It's for you.
           </p>
           <img
-          src="/src/assets/december2025/CaramelCalling.png"
+          src="/assets/december2025/CaramelCalling.png"
           className="max-h-[200px] mx-auto"
           ></img>
 
@@ -409,7 +409,7 @@ const Summer2025 = () => {
             I thought he was busy??
           </p>
           <img
-          src="/src/assets/december2025/CubeConfuse.png"
+          src="/assets/december2025/CubeConfuse.png"
           className="max-h-[135px] mx-auto"
           ></img>
         </div>
@@ -433,7 +433,7 @@ const Summer2025 = () => {
           
         </div>
         <img
-          src="/src/assets/december2025/TennaSunbathingPeacefully.png"
+          src="/assets/december2025/TennaSunbathingPeacefully.png"
           className="!mt-30 !mb-20 max-h-[200px]"
         ></img>
       </div>
