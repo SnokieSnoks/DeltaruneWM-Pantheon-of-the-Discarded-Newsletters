@@ -42,7 +42,7 @@ const Summer2025 = () => {
         <div>
           <p className='mt-10'>Heeeeey everyone!</p>
           <p>Do you still remember us?</p>
-          <p>Maybe this issue took a bit longer than expected…</p>
+          <p>Maybe this took a bit longer than expected…</p>
           <p>To be honest, I had an almost complete issue written and ready for release in the summer. But I wanted to make it a little more fun by adding something special.</p>
           <p>That was the recipe for disaster.</p>
           <p>While I waited for this thing to be ready, more and more setbacks arose. And now here I am having to write an almost completely new issue because all my weather jokes just don't work anymore.</p>
