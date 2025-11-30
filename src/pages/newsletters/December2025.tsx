@@ -235,13 +235,6 @@ const Summer2025 = () => {
           />
         <p>"WHY are you here!?? What the hell is THAT!??"</p>
         <p className="text-center text-[14px] !-mt-6">by <span className='underline'>Conno02</span></p>
-        <AudioItem
-          name="♪ Brutal Blade"
-          src="/assets/december2025/audio/brutal_blade.wav"
-          piano={true}
-          />
-        <p>"Here, your foes will not be so easily persuaded."</p>
-        <p className="text-center text-[14px] !-mt-6">by <span className='underline'>OnlyAReina</span></p>
         <div className='text-left'>
           <p>
             Now for some characters.
