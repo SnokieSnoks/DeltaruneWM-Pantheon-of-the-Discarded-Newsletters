@@ -241,7 +241,7 @@ const Summer2025 = () => {
           piano={true}
           />
         <p>"Here, your foes will not be so easily persuaded."</p>
-        <p className="text-center text-[14px] !-mt-6">by <span className='underline'>OnlyAnReina</span></p>
+        <p className="text-center text-[14px] !-mt-6">by <span className='underline'>OnlyAReina</span></p>
         <div className='text-left'>
           <p>
             Now for some characters.
