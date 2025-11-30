@@ -239,7 +239,7 @@ const Summer2025 = () => {
           className="max-h-[175px] mx-auto"
           ></img>
           <p>
-            These characters are Rekko, Rubyx, and Rapjay, maybe not 
+            These are Rekko, Rubyx, and Rapjay, maybe not 
             necessarily in that order. (Yes it is).
           </p>
           <p>
